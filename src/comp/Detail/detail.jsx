@@ -170,7 +170,7 @@ const Detail = () => {
             </Stack>
         </Stack>
         <Stack sx={{ backgroundColor: '#0055DA' }} p={2} textAlign={'center'} justifyContent={'center'} >
-            <h2 style={{ color: 'white' }}><span>&#169;</span> Copyright reserved by Manish</h2>
+            <h2 style={{ color: 'white' }}><span>&#169;</span> Copyright reserved by Kushal</h2>
         </Stack>
     </>
 
